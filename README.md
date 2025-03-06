@@ -256,4 +256,4 @@ Images for submission can be found in THIS_PROJECT_ROOT/experiments/NAME_TO_SAVE
 
 Thanks the authors for their works: [NLSPN](https://github.com/zzangjinsun/NLSPN_ECCV20), [Completionformer](https://github.com/youmi-zym/CompletionFormer), [Vmamba](https://github.com/MzeroMiko/VMamba).
 
-Besides, we also thank [CHNet](https://github.com/lmomoy/CHNet/issues) for providing their pre-training weights on KITTI DC.
+Besides, we also thank [CHNet](https://github.com/lmomoy/CHNet) for providing their pre-training weights on KITTI DC.
